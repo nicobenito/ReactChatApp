@@ -1,0 +1,29 @@
+body{
+	height: 100%;
+    margin: 0;
+    padding: 0
+}
+.users{
+	float: right;
+	height: 100%;
+}
+.messages {
+	height: 100%;
+    padding-bottom: 60px;
+}
+
+.change_name_form{
+	display: none;
+}
+
+.message_form input{
+	border: 10px solid #000;
+    bottom: 0;
+    height: 60px;
+    left: 0;
+    outline: none;
+    padding-left: 10px;
+    position: absolute;
+    right: 0;
+	width: 100%;
+}
